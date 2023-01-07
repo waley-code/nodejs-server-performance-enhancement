@@ -5,7 +5,7 @@
     - OS 
     - Forking processess
 
-This project uses the OS of the operating systems based on the numbers of cores therby spining multiple server process 
+This project uses the OS of the operating systems based on the numbers of cores thereby spining multiple server process 
 handling several requesting using the rubbing technique of browsers.
     Multiple process is been created from the parent bserver based on the number of cores on the OS CPU
 
