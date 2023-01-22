@@ -1,7 +1,7 @@
 Use# Nodejs Server Performance Enhancement
 
     This mini project sought to enhances server performance and responce time based on 
-    - Clustering.
+    - Clustering
     - OS
     - Forking processess
 
