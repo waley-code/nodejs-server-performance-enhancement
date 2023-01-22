@@ -1,9 +1,9 @@
-# Nodejs Server Performance Enhancement
+Use# Nodejs Server Performance Enhancement
 
     This mini project sought to enhances server performance and responce time based on 
     - Clustering
     - OS 
-    - Forking processess
+    - Forking processess.
 
 This project uses the OS of the operating systems based on the numbers of cores thereby spining multiple server process 
 handling several requesting using the rubbing technique of browsers.
